@@ -1,0 +1,93 @@
+style>
+.imf{
+width: 400px;
+height: 300px;
+margin-left: 500px;
+
+
+}
+
+.se{
+margin-left: 10px;
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 1200px;
+width:180;
+height: 25;
+padding-top: 4px;
+padding-bottom: 4px;
+
+}
+
+
+
+
+
+body{
+
+ background-color: rgb(15,15,15 );
+ <img src="C:\Users\HP\Desktop\byebye folder\webthins\ps.png">
+ 
+}
+
+.games{
+color: white;
+font-size: 50px;
+margin-left: 200px;
+font-family: bold;
+width:148;
+height:58;
+}
+.games:hover{
+cursor: pointer;
+
+}
+.ass{
+color: white;
+font-size: 50px;
+margin-left: 200px;
+
+}
+.ass:hover{
+cursor: pointer;
+
+}
+.spa{
+
+border-radius: 50px;
+width: 520px;
+height: 420px;
+}
+.txt{
+
+color: white;
+margin-left: 60px;
+}
+.dw{
+background-color: rgb(0, 255, 0);
+border-bottom-width: 10px;
+border-top-width: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+cursor: pointer;
+border-radius: 20px;
+margin-right: 10px;
+color: white;
+
+}
+.dw:hover{
+border-bottom: 2px  solid white;
+cursor: pointer;
+font-family: bold;
+
+}
+.dw:active{
+opacity: 0.7;
+
+}
+.th{
+color: transparent;
+
+}
+</style
